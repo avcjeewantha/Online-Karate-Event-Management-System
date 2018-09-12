@@ -1,0 +1,43 @@
+2018/09/07 - 	-304 -NOT MODIFIED
+		-200 -OK
+		-terminal -Alt + F12
+		-delete a commit - git reset --hard 121241241241412412412412
+			  	   git push origin +121241241241412412412412^:develop
+		-create/delete a branch - https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/
+		-Online-Karate-Event-Management-System
+		-Fork, clone, git clone <<url>>
+			      git status
+			      git remote add upstream https://github.com/dasunkarunathilaka/Online-Karate-Event-Management-System.git
+			       
+2018/09/10 -    -git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
+		 git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+		 git remote -v
+		 git remote rm destination	
+		 
+		 git fetch upstream
+		 git checkout master
+		 git merge upstream/master
+		 git push -f origin master
+
+		 git checkout -b draw
+		 git checkout draw
+		 git branch
+
+		 git status
+		 git add *
+		 git commit -m "Adding untracked files"
+		 git push
+
+		 git push -u origin draw
+
+		 git checkout master  
+		 git merge my-branch-name 
+
+		 git config --global user.email "you@example.com"
+		 git config --global user.name "avcjeewantha"
+
+		-npm install -g sass
+		-draw branch and draw logic created
+		-user portals created
+
+	
